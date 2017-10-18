@@ -1,0 +1,6 @@
+[package]
+name = "string_ops"
+version = "0.1.0"
+authors = ["mvenugopal"]
+
+[dependencies]
